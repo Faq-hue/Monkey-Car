@@ -21,3 +21,4 @@ Emanuel De Dominicis
 
 [Documento de espeficicación](https://github.com/Faq-hue/Monkey-Car/files/9993710/Documento.de.espeficicacion.docx)
 
+[Informe_Grupo8_Info2](https://github.com/Faq-hue/Monkeys-Car/files/9993720/Informe_Grupo8_Info2.docx.pdf)
