@@ -3,9 +3,9 @@
 # Integrantes
 [Facundo Zamora](https://github.com/Faq-hue)
 
-[Antonella Badami]
+Antonella Badami
 
-[Emanuel De Dominicis]
+Emanuel De Dominicis
 
 # Extras
 
