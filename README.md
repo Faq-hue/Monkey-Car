@@ -17,7 +17,7 @@ Emanuel De Dominicis
 
 # Extras
 
-[YouTube](youtube.com/watch?v=SG3qH8m75C8&feature=youtu.be)
+[YouTube](https://www.youtube.com/watch?v=SG3qH8m75C8)
 
 [Documento de espeficicación](https://github.com/Faq-hue/Monkey-Car/files/9993710/Documento.de.espeficicacion.docx)
 
